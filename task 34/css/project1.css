@@ -307,10 +307,12 @@ p{
 input{
 	margin-top: 37px;
 	margin-left: 15px;
-	background-color: whitesmoke
+	background-color: white;
+	height:30px;
 }
 .bu2{
 	background-color: orange;
+	height:35px;
 }
 .g{
 	height:500px;
