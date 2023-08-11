@@ -1,11 +1,11 @@
 .a{
 	height:4265px;
-	width:1350px;
+	width:100%;
 	background-color:white;
 }
 .a1{
 	height:600px;
-	width:1350px;
+	width:100%;
 	margin-top:30px;
     background-image:url('../images/air.jpg');
 }
@@ -15,7 +15,7 @@
 .a2{
 	font-size:60px;
 	padding-top:180px;
-	padding-left:580px;
+	padding-left:560px;
 	color:white;
 }
 .a3{
@@ -32,7 +32,7 @@ button:hover{
 }
 .a4{
 	height:400px;
-	width:1350px;
+	width:100%;
 	background-color:white;
 }
 .a5{
@@ -40,9 +40,9 @@ button:hover{
 	width:300px;
 	background-color:whitesmoke;
 	float:left;
-	margin-left:30px;
+	margin-left:12px;
 	margin-top:40px;
-	border-radius:10px;
+	border-radius:8px;
 	border:3px solid black;
 }
 #icon{
@@ -68,7 +68,7 @@ p{
 }
 .b{
 	height:400px;
-	width:1350px;
+	width:100%;
 	background-color:whitesmoke;
 	margin-top:20px;
 	background-image:url('../images/mountain.jpg');
@@ -282,21 +282,23 @@ p{
 }
 .am{
 	height: 100px;
-	width:1350px;
-	background-color: white;
+	width:100%;
+	background-color: whitesmoke;
 }
 .pla{
 	text-align: center;
+	margin-left:100px;
 }
 #hr3{
 	height:3px;
-	width:160px;
-    margin-left:590px;
+	width:100px;
+    margin-left:630px;
     background-color:red;
 }
 .p3{
 	text-align: center;
-	font-size:15px;
+	font-size:17px;
+	margin-left:100px;
 }
 .f{
 	height:80px;
@@ -317,7 +319,7 @@ input{
 }
 .g{
 	height:500px;
-	width:1350px;
+	width:100%;
 	background-color: whitesmoke;
 	margin-top: 20px;
 	background-image: url('../images/mountains.jpg');
@@ -422,14 +424,14 @@ input{
 	margin-top:5px;
 }
 .last{
-	height:200px;
-	width:1350px;
+	height:250px;
+	width:100%;
 	background-color:black;
 	margin-top:0px;
 }
 .last1{
 	height:200px;
-	width:450px;
+	width:33%;
 	background-color:black;
 	float:left;
 	text-align: center;
@@ -438,11 +440,11 @@ input{
 	font-family: cursive;
 }
 .last2{
-	margin-left:-700px;
-    margin-top:50px;
+	margin-left:-650px;
+    margin-top:60px;
     height:2px;
     background-color:white;
-    width:900px;
+    width:220%;
 }
 .last3{
 	text-align: center;
